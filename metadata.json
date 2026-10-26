@@ -1,0 +1,6 @@
+{
+  "name": "CareerAI — AI-Based Career Recommendation System",
+  "description": "Intelligent AI-powered career recommendation platform analyzing student interests, skills, academic background, and work preferences with personalized roadmaps and career analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
